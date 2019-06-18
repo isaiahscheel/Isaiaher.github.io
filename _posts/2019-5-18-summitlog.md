@@ -84,8 +84,6 @@ Within the map you can look at where you have been and also where your friends h
 
 ### User Profiles
 
-<amp-img src="{{ site.baseurl }}assets/images/user_prof.png" width="100" height="200" layout="responsive" alt="" class="mb3"></amp-img>
-
 <amp-img src="{{ site.baseurl }}assets/images/summitlog.png" width="100" height="200" layout="responsive" alt="" class="mb3"></amp-img>
 
 
